@@ -1,3 +1,10 @@
+# Weekly project for Technigo's bootcamp, week 4
+Task: build a chat-bot
+
+Tech: HTML, CSS and JavaScript
+
+----
+
 # Week 4: chatbot
 
 We had this week to build a chat-bot in order to practice JavaScript and pair-programming.
