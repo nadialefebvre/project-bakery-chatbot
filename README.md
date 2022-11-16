@@ -1,4 +1,4 @@
-# Project Bakery E&N
+# Project Cake-bot
 
 Weekly project for Technigo's bootcamp, week 4: build a chat-bot
 
