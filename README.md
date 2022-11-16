@@ -1,4 +1,6 @@
-# Week 4: chatbot
+# Project Bakery E&N
+
+Weekly project for Technigo's bootcamp, week 4: build a chat-bot
 
 We had this week to build a chat-bot in order to practice JavaScript and pair-programming.
 
