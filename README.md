@@ -13,3 +13,7 @@ If we had more time, we would maybe restructure our JavaScript file in a more ef
 ## View it live
 
 Project deployed here: [Bakery E&N](https://cake-bot.netlify.app/)
+
+<div align="center">
+  <img src="screenshot.jpg" />
+</div>
