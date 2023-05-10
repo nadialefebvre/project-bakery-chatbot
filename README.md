@@ -1,10 +1,16 @@
 # Project Bakery chatbot
 
-Weekly project for Technigo's bootcamp, week 4: build a chat-bot
+Weekly project for Technigo's bootcamp, week 4: build a chat-bot (February 2022)
 
-We had this week to build a chat-bot in order to practice JavaScript and pair-programming.
+## Tech stack
+
+- JavaScript
+- HTML
+- CSS
 
 ## The problem
+
+We had this week to build a chat-bot in order to practice JavaScript and pair-programming.
 
 We started by planning the main questions to figure out the flow of our chat-bot. For the coding we had 5 iterations to finish and we took turn on being the driver vs navigator. We managed to use several conditionals. We tried different approaches by ourselves but we could have been better at using the channels for help.  
 
